@@ -58,7 +58,7 @@ https://dellya-dev.github.io/youtube-clone/
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/username/youtube-clone.git
+   git clone https://github.com/dellya-dev/youtube-clone.git
    ```
 2. Open `index.html` in your browser
 
